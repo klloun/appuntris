@@ -1,4 +1,4 @@
-UniCam Notes Sharing Platform
+Appuntris - UniCam Notes Sharing Platform
 
 This project is a collaborative initiative by four students at the University of Camerino to create a platform where students can share and access notes. The platform is designed to improve academic collaboration by organizing notes into sections corresponding to various courses offered by the university.
 
