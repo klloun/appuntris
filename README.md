@@ -1,14 +1,24 @@
 UniCam Notes Sharing Platform
 
-A platform designed for students of the University of Camerino to collaboratively share and access notes, organized by courses. This project aims to foster collaboration and enhance learning by providing an easy way to find and contribute course-related materials.
+This project is a collaborative initiative by four students at the University of Camerino to create a platform where students can share and access notes. The platform is designed to improve academic collaboration by organizing notes into sections corresponding to various courses offered by the university.
+
+Goals
+
+    Make it easier for students to access and share course resources.
+    
+    Foster a sense of community and collaboration among students.
+    
+    Establish a well-organized and structured library for scholarly materials.
 
 Features
 
     Course-Based Organization: Notes are categorized into sections corresponding to the various courses offered at UniCam.
     
-    Collaborative Sharing: Students can upload, edit, and download notes in a streamlined manner.
+    Collaborative Sharing: It's easy for students to publish, edit, and download notes.
     
     User-Friendly Interface: Simple navigation to find notes for a specific course.
+
+    Rating System: students can rate each other’s helpfulness, with ratings displayed on user profiles to encourage collaboration and quality contributions.
 
 How to Use
 
